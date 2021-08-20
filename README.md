@@ -16,7 +16,7 @@
     <a href="https://github.com/LaggingNinja"><strong>My Git Hub Profile »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/LaggingNinja/FOXVENTURE#preview">View Demo</a>
+    <a href="https://github.com/LaggingNinja/FOXVENTURE#preview-green_circle">View Demo</a>
     ·
     <a href="https://github.com/LaggingNinja/FOXVENTURE/issues">Report Bug</a>
     ·
@@ -29,23 +29,23 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project-star2">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#assest-used">Assest Used</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started-how-to-play">Getting Started, How to play?</a>
+      <a href="#getting-started-how-to-play-smile">Getting Started, How to play?</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
          <li><a href="#uninstalling">Uninstalling</a></li>
       </ul>
     </li>
     <li><a href="#installation-available">Installation available</a></li>
-    <li><a href="#errors-and-bugs">Errors and bugs</a></li>
-    <li><a href="#patches-and-pull-requests">Patches and pull requests</a></li>
-    <li><a href="#copyright-and-attribution"> Copyright and attribution</a></li>
+    <li><a href="#errors-and-bugs-thinking">Errors and bugs</a></li>
+    <li><a href="#patches-and-pull-requests-">Patches and pull requests</a></li>
+    <li><a href="#copyright-and-attribution-u7981"> Copyright and attribution</a></li>
   </ol>
 </details>
 
