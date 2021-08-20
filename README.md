@@ -1,4 +1,4 @@
-# Welcome! 
+# Welcome to FOXVENTURE!  
 ### Discord: [![discord][discord]][discord-url] Twitter: [![twitter][twitter]][twitter-url]
 
 
@@ -15,7 +15,7 @@
     <a href="https://github.com/LaggingNinja"><strong>My Git Hub Profile »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/LaggingNinja">View Demo</a>
+    <a href="https://github.com/LaggingNinja/FOXVENTURE#preview">View Demo</a>
     ·
     <a href="https://github.com/LaggingNinja/FOXVENTURE/issues">Report Bug</a>
     ·
@@ -28,20 +28,44 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#getting-started">Getting Started, How to play?</a>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#assest-used">Assest Used</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started-how-to-play">Getting Started, How to play?</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
          <li><a href="#uninstalling">Uninstalling</a></li>
       </ul>
     </li>
-    <li><a href="#assestused">Assest Used</a></li>
-    <li><a href="#installationavailable">Installation available</a></li>
-    <li><a href="#errorsandbugs">Errors and bugs</a></li>
-    <li><a href="#patches&pull">Patches and pull requests</a></li>
-    <li><a href="#copyright"> Copyright and attribution</a></li>
+    <li><a href="#installation-available">Installation available</a></li>
+    <li><a href="#errors-and-bugs">Errors and bugs</a></li>
+    <li><a href="#patches-and-pull-requests">Patches and pull requests</a></li>
+    <li><a href="#copyright-and-attribution"> Copyright and attribution</a></li>
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+FOXVENTURE is 2D advanture game. <br />
+It is Chong Wei Shen's first ever 2D game.<br />
+Why? :
+* To learn more about Unity.
+* To improve my C# programming skills.
+* Also learning how to collaborate with GitHub + Unity.
+
+### Built With
+
+* [Unity](https://unity.com)
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+## Assest Used
+* [Pixel Cursors](https://assetstore.unity.com/packages/2d/gui/icons/pixel-cursors-109256)
+* [SunnyLand](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
 
 
 ### Getting Started, How to play?
@@ -55,10 +79,6 @@ or here: https://drive.google.com/file/d/1frZEUp5F5ntHoGYRD8hLW3qZVj01rg5R/view?
 ## Uninstalling
 To **uninstall** the game, Run `unins000.exe` <br />
 In game, You may read the info of different skills and adjust the volume in the settings.
-
-## Assest Used
-* [Pixel Cursors](https://assetstore.unity.com/packages/2d/gui/icons/pixel-cursors-109256)
-* [SunnyLand](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
 
 ### Installation available
 * Mac OS
