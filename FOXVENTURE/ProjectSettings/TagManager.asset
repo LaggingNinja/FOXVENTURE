@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gem
+  - Cherry
+  - sign1
+  - Enemy
+  - HighJumpPower
+  - GM
+  - RunItBack
+  - Wings
+  - Speed
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - UI 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackBack
+    uniqueID: 3957032461
+    locked: 0
+  - name: Background
+    uniqueID: 1836200559
+    locked: 0
+  - name: Envi
+    uniqueID: 848362649
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2225996195
+    locked: 0
+  - name: Envi+
+    uniqueID: 3632029655
+    locked: 0
+  - name: Envi++
+    uniqueID: 1926824409
+    locked: 0
