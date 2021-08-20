@@ -1,14 +1,58 @@
-# FOXVENTURE (Demo)
-A 2D adventure game made by Chong Wei Shen. This is a demo version of the game. <br />
-![Screenshot 2021-08-20 132446](https://user-images.githubusercontent.com/66457844/130183854-e91caeac-0824-4bd3-a28b-e9d927b4b5e0.png)
+# Welcome! 
+### Discord: [![discord][discord]][discord-url] Twitter: [![twitter][twitter]][twitter-url]
 
-### Getting Started
-##How to play? 
+
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="FOXVENTURE\Assets\Sunnyland\artwork\Sprites\player\idle\player-idle-1.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">FOXVENTURE (Demo)</h3>
+
+  <p align="center">
+    A 2D adventure game made by Chong Wei Shen.<br /> This is a demo version of the game.
+    <br />
+    <a href="https://github.com/LaggingNinja"><strong>My Git Hub Profile »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/LaggingNinja">View Demo</a>
+    ·
+    <a href="https://github.com/LaggingNinja/FOXVENTURE/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/LaggingNinja/FOXVENTURE/issues">Request Feature</a>
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#getting-started">Getting Started, How to play?</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+         <li><a href="#uninstalling">Uninstalling</a></li>
+      </ul>
+    </li>
+    <li><a href="#assestused">Assest Used</a></li>
+    <li><a href="#installationavailable">Installation available</a></li>
+    <li><a href="#errorsandbugs">Errors and bugs</a></li>
+    <li><a href="#patches&pull">Patches and pull requests</a></li>
+    <li><a href="#copyright"> Copyright and attribution</a></li>
+  </ol>
+</details>
+
+
+
+### Getting Started, How to play?
 Open folder *Latest Installer* & Run `FOXVENTURE Demo Installer (x86).exe` to download the game. <br /><br />
+In game, You may read the info of different skills and adjust the volume in the settings.
 
+## Installation
 *You can also straight away **download the installer** file from here: https://github.com/LaggingNinja/FOXVENTURE/blob/main/Latest%20Installer/FOXVENTURE%20Demo%20Installer%20(x86).exe* <br />
 or here: https://drive.google.com/file/d/1frZEUp5F5ntHoGYRD8hLW3qZVj01rg5R/view?usp=sharing <br />
-<br />
+
+## Uninstalling
 To **uninstall** the game, Run `unins000.exe` <br />
 In game, You may read the info of different skills and adjust the volume in the settings.
 
@@ -33,3 +77,12 @@ Your patches are welcome. Here's our suggested workflow:
 
 ## Copyright and attribution
 Copyright (c) 2021 ProShenGames,Chong Wei Shen. Released under the [Apache License](https://github.com/LaggingNinja/FOXVENTURE/blob/main/LICENSE).
+
+## Preview
+![Screenshot 2021-08-20 132446](https://user-images.githubusercontent.com/66457844/130183854-e91caeac-0824-4bd3-a28b-e9d927b4b5e0.png)
+
+
+[discord]: https://user-images.githubusercontent.com/66457844/130191087-57bd7136-795f-4fc3-bee7-d22179ae1fe9.png
+[discord-url]: https://discord.link/SlowFamous
+[twitter]: https://user-images.githubusercontent.com/66457844/130191218-f2583169-a9e5-42de-b07a-229ad98ff47a.png
+[twitter-url]: https://twitter.com/ShenNotFound_
