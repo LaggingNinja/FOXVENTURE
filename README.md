@@ -2,7 +2,7 @@
 A 2D adventure game made by Chong Wei Shen. This is a demo version of the game.
 
 ### Getting Started
-*How to play? Run `FOXVENTURE.exe`*
+*How to play? Run `FOXVENTURE.exe`* <br />
 *In game, You may read the info of skills and adjust the volume in the settings.*
 
 ## Assest Used
@@ -26,5 +26,5 @@ Your patches are welcome. Here's our suggested workflow:
 * Send us a pull request with a description of your work. Bonus points for topic branches!
 
 ## Copyright and attribution
-Copyright (c) 2021 ProShenGames. Released under the [Apache License](https://github.com/LaggingNinja/FOXVENTURE/blob/main/LICENSE).
+Copyright (c) 2021 ProShenGames,Chong Wei Shen. Released under the [Apache License](https://github.com/LaggingNinja/FOXVENTURE/blob/main/LICENSE).
 ```
