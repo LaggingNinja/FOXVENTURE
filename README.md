@@ -1,5 +1,6 @@
 # Welcome to FOXVENTURE!  
-### Discord: [![discord][discord]][discord-url] Twitter: [![twitter][twitter]][twitter-url]
+### My Contacts: 
+**Discord:**[![discord][discord]][discord-url] **Twitter:** [![twitter][twitter]][twitter-url]
 
 
 <p align="center">
@@ -49,26 +50,26 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-FOXVENTURE is 2D advanture game. <br />
-It is Chong Wei Shen's first ever 2D game.<br />
+## About The Project :star2:
+![Screenshot 2021-08-20 132446](https://user-images.githubusercontent.com/66457844/130183854-e91caeac-0824-4bd3-a28b-e9d927b4b5e0.png)
+FOXVENTURE is 2D advanture game. Currently only demo version.<br />
+It is also Chong Wei Shen's first ever 2D game.<br />
 Why? :
 * To learn more about Unity.
 * To improve my C# programming skills.
 * Also learning how to collaborate with GitHub + Unity.
 
-### Built With
+### Built With 
 
 * [Unity](https://unity.com)
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-## Assest Used
+### Assest Used
 * [Pixel Cursors](https://assetstore.unity.com/packages/2d/gui/icons/pixel-cursors-109256)
 * [SunnyLand](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
 
 
-### Getting Started, How to play?
+## Getting Started, How to play? :smile:
 Open folder *Latest Installer* & Run `FOXVENTURE Demo Installer (x86).exe` to download the game. <br /><br />
 In game, You may read the info of different skills and adjust the volume in the settings.
 
@@ -80,26 +81,28 @@ or here: https://drive.google.com/file/d/1frZEUp5F5ntHoGYRD8hLW3qZVj01rg5R/view?
 To **uninstall** the game, Run `unins000.exe` <br />
 In game, You may read the info of different skills and adjust the volume in the settings.
 
-### Installation available
+## Installation available
 * Mac OS
 * Linux
 * Windows
 
-## Errors and bugs
+## Errors and bugs :thinking:
 If something is not behaving intuitively, it is a bug and should be reported.
 Report it here by creating an issue: https://github.com/LaggingNinja/FOXVENTURE/issues
 
-## Patches and pull requests
+## Patches and pull requests 💬
 Your patches are welcome. Here's our suggested workflow:
 * Fork the project.
 * Make your feature addition or bug fix.
 * Send us a pull request with a description of your work. Bonus points for topic branches!
 
-## Copyright and attribution
+## Copyright and attribution :u7981:
 Copyright (c) 2021 ProShenGames,Chong Wei Shen. Released under the [Apache License](https://github.com/LaggingNinja/FOXVENTURE/blob/main/LICENSE).
 
-## Preview
-![Screenshot 2021-08-20 132446](https://user-images.githubusercontent.com/66457844/130183854-e91caeac-0824-4bd3-a28b-e9d927b4b5e0.png)
+## Preview :green_circle:
+![Screenshot 2021-08-20 150514](https://user-images.githubusercontent.com/66457844/130194011-d832cf19-c44b-4f2e-b485-983933e47088.png)
+![Screenshot 2021-08-20 150659](https://user-images.githubusercontent.com/66457844/130194156-def5e721-812f-4b05-8554-ddbe5775614f.png)
+
 
 
 [discord]: https://user-images.githubusercontent.com/66457844/130191087-57bd7136-795f-4fc3-bee7-d22179ae1fe9.png
