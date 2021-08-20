@@ -1,9 +1,11 @@
 # FOXVENTURE (Demo)
 A 2D adventure game made by Chong Wei Shen. This is a demo version of the game.
+![Screenshot 2021-08-20 132446](https://user-images.githubusercontent.com/66457844/130183854-e91caeac-0824-4bd3-a28b-e9d927b4b5e0.png)
 
 ### Getting Started
-*How to play? Run `FOXVENTURE.exe`* <br />
-*In game, You may read the info of skills and adjust the volume in the settings.*
+*How to play? Open folder *Latest Installer* & Run `FOXVENTURE Demo Installer (x86).exe`* to download the game and play.<br />
+*To uninstall the game, Run `unins000.exe`*
+*In game, You may read the info of different skills and adjust the volume in the settings.*
 
 ## Assest Used
 * [Pixel Cursors](https://assetstore.unity.com/packages/2d/gui/icons/pixel-cursors-109256)
