@@ -1,7 +1,7 @@
 # FOXVENTURE (Demo)
 A 2D adventure game made by Chong Wei Shen. This is a demo version of the game.
 
-###Getting Started
+### Getting Started
 *How to play? Run `FOXVENTURE.exe`*
 *In game, You may read the info of skills and adjust the volume in the settings.*
 
