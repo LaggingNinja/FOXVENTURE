@@ -4,6 +4,7 @@ A 2D adventure game made by Chong Wei Shen. This is a demo version of the game. 
 
 ### Getting Started
 *How to play? Open folder *Latest Installer* & Run `FOXVENTURE Demo Installer (x86).exe`* to download the game <br />
+*You can also staight away download the file form here: https://github.com/LaggingNinja/FOXVENTURE/blob/main/Latest%20Installer/FOXVENTURE%20Demo%20Installer%20(x86).exe* <br />
 *To uninstall the game, Run `unins000.exe`* <br />
 *In game, You may read the info of different skills and adjust the volume in the settings.*
 
@@ -29,4 +30,3 @@ Your patches are welcome. Here's our suggested workflow:
 
 ## Copyright and attribution
 Copyright (c) 2021 ProShenGames,Chong Wei Shen. Released under the [Apache License](https://github.com/LaggingNinja/FOXVENTURE/blob/main/LICENSE).
-```
