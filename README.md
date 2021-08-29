@@ -79,7 +79,6 @@ or here: https://drive.google.com/file/d/1frZEUp5F5ntHoGYRD8hLW3qZVj01rg5R/view?
 
 ## Uninstalling
 To **uninstall** the game, Run `unins000.exe` <br />
-In game, You may read the info of different skills and adjust the volume in the settings.
 
 ## Installation available
 * Mac OS
